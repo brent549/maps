@@ -16,8 +16,7 @@ import os
 from urllib.parse import urlparse, parse_qs
 
 
-#API_KEY='AIzaSyDCmCNqMmAdMHeRyxYY6CowI5ankv6ZTxM'
-API_KEY='AIzaSyBOBwCbeYaeGGUb4FwIFhyznC6TxpR5L0U'
+API_KEY=''
 BASE_URL='https://maps.googleapis.com/maps/api/distancematrix/json'
 
 origins = []
