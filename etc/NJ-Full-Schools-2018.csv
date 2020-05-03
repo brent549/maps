@@ -1,0 +1,306 @@
+2018,2016,High School Name,County,Grate 12 Enrollment,Student to faculty ratio,# of AP/B subjects offered,% students grades 11-12 taking at least one AP IB course,Total AP/IB tests takenas as a % of total 11-12 graders,% students grades 9-12 taking at least one arts course,% students scoring at or above 530 for math SAT,% students scoring at or above 480 for reading & writing SAT,% students taking one or more exam who scored at least one AP 3+ or IB 4+,4 year adjusted cohort graduation rate,% students enrolled in college 16 months after HS
+1,65,McNair Academic (Jersey City),Hudson,175,12,28,100,285.67,66,97,100,100,100,89
+2,10,Glen Rock,Bergen,164,9,25,65,141.05,81,87,93,54.6,99.4,88.5
+3,4,Millburn,Essex,355,12,32,68.1,169.48,74,91,98,66.9,98.1,84
+4,1,Chatham,Morris,324,12,31,96.2,182.34,63,84,96,75.3,99.1,86.5
+5,46,Ramapo,Bergen,300,10,27,68,128.69,59,86,96,46.1,98.3,91.2
+6,5,Haddonfield Memorial,Camden,206,9,24,70.6,113.43,61,86,96,50.3,98.1,87.3
+7,41,West Morris Mendham IB,Morris,355,12,49,100,173.91,59,84,97,71.1,97.3,87.1
+8,6,Livingston,Essex,445,11,33,75.1,166.85,60,84,93,64.6,95.9,90.3
+9,13,New Providence,Union,169,10,28,58.5,106.15,67,82,96,42.8,97.2,93.3
+10,14,Ridge (Basking Ridge),Somerset,484,13,29,71.5,182.26,59,89,98,62.5,98,87.1
+11,12,Montgomery,Somerset,399,13,27,73.4,166.75,58,94,97,61.6,97.6,90
+12,17,Mountain Lakes,Morris,185,11,29,89.1,162.46,50,82,95,59.7,95.4,92.8
+13,2,West Windsor-Plainsboro  North,Mercer,331,12,34,74.1,175.89,46,92,96,73.8,94.1,90.2
+14,40,West Morris Central (Chester)  IB,Morris,338,13,45,90,150.86,60,79,94,56.1,96.8,93.4
+15,83,Northern Valley Regional  (Demarest),Bergen,231,10,29,64.9,119.75,44,84,93,47.8,99.2,89.2
+16,31,Hopewell Valley Central (Pennington),Mercer,320,11,26,60.7,106.81,53,87,97,45.1,97.6,88.8
+17,9,West Windsor-Plainsboro South,Mercer,408,13,34,62.3,166.38,48,88,95,66.8,96.7,91.6
+18,48,Montville,Morris,289,10,26,59.4,122.87,63,82,91,40.6,99,89.7
+19,28,Bernards,Somerset,195,12,27,70.8,174.87,65,74,96,54.2,97.1,87.6
+20,15,Princeton,Mercer,382,12,31,65.2,211.11,42,91,97,80.4,97.4,81.4
+21,57,Hunterdon Central Regional (Flemington),Hunterdon,703,12,35,61.2,111.81,65,82,95,45.9,96.1,88
+22,22,Moorestown,Burlington,337,11,28,77.1,101.38,59,80,92,45.3,99.4,88.9
+23,29,Glen Ridge,Essex,142,11,24,76.7,173.21,59,80,91,60.1,97.9,87
+24,94,Verona,Essex,152,12,23,95,208.33,78,77,92,66.5,96.8,85.5
+25,122,Elizabeth,Union,200,17,21,100,377.51,82,80,90,63.6,99,89.7
+26,32,Madison,Morris,197,13,27,58.4,138.85,66,77,94,51.9,97,91.9
+27,23,Northern Highlands Regional  (Allendale),Bergen,348,12,29,70.2,118.31,46,84,95,56.1,98.9,87.1
+28,49,Tenafly,Bergen,280,11,26,55.3,132.33,35,96,98,55.1,98.6,80.7
+29,18,Summit,Union,326,11,31,76.2,178.06,75,75,88,70.5,96.2,84.6
+30,19,Governor Livingston (Berkeley Heights),Union,271,11,26,58.7,136.87,63,78,93,45.1,96.8,88.3
+31,54,Cranford,Union,299,12,30,83.6,158.97,65,72,93,60.7,95.2,89.9
+32,16,Randolph,Morris,367,11,28,62.9,101.37,57,77,93,41.4,99.2,90.7
+33,21,Ramsey,Bergen,212,9,22,57.5,100,58,80,95,45.4,95.9,85.9
+34,39,North Hunterdon (Clinton),Hunterdon,384,13,28,68.3,139.18,51,82,95,50.9,97.3,90.1
+35,30,Rumson-Fair Haven Regional,Monmouth,252,12,24,78.5,148.03,48,80,95,61.7,96.6,89.4
+36,33,Ridgewood,Bergen,417,13,28,55.5,114.25,60,93,95,43.4,97.4,85.5
+37,8,Westfield,Union,420,12,21,50.8,83.64,64,89,96,41.2,98.1,89.7
+38,27,Indian Hills (Oakland),Bergen,290,10,25,51.6,79.32,60,82,97,36.6,96.4,84.8
+39,89,Red Bank RegionalIB,Monmouth,280,11,31,75.3,142.56,49,73,92,53,96.4,88.4
+40,26,Cresskill,Bergen,123,9,23,54.8,108.89,70,71,91,48.2,96.8,85.5
+41,43,Mahwah,Bergen,244,10,24,50.5,110.54,57,83,92,45,96.9,83.3
+42,25,East Brunswick,Middlesex,682,12,28,41.9,100.45,77,84,92,38.7,96.9,88.6
+43,7,Holmdel,Monmouth,222,10,25,50.2,101.36,60,78,90,40,97.6,88.9
+44,60,Marlboro,Monmouth,484,14,25,59.1,123.18,30,85,95,46.3,97.8,90.7
+45,50,Sparta,Sussex,273,11,25,52.8,107.33,78,71,91,40.9,98.6,88.9
+46,11,Watchung Hills Regional (Warren),Somerset,533,12,26,55,109.94,71,76,91,42.3,96.4,88.5
+47,68,Whippany Park,Morris,183,13,24,76.2,119.61,72,72,89,45.4,98.9,91.3
+48,3,Kinnelon,Morris,162,11,30,50.6,111.54,82,70,88,43.8,97.6,91.1
+49,N/A,Infinity Institute (Jersey City),Hudson,50,9,7,32.5,72.29,54,90,98,44.6,100,84.2
+50,47,Hillsborough,Somerset,518,12,30,50.5,84.72,54,83,94,34.3,97.8,89.1
+51,77,Northern Valley Regional (Old Tappan),Bergen,306,12,31,56.7,110.31,44,78,93,41.9,99.4,86.5
+52,125,Point Pleasant Beach,Ocean,73,9,17,73.1,122.67,49,74,94,42.1,95.1,84.7
+53,79,Science Park (Newark)  IB,Essex,185,12,29,72,154.52,35,85,97,40.8,98.4,67.2
+54,135,Central Jersey College Prep (Somerset)  C,Somerset,49,10,18,98.9,170.21,45,78,88,45.7,100,83.9
+55,20,Park Ridge,Bergen,100,10,14,48.3,84.46,75,74,92,41.6,97,85.9
+56,42,Pascack Hills (Montvale),Bergen,228,11,31,52.9,109.65,36,75,93,37.4,96.2,91.2
+57,35,Parsippany Hills,Morris,252,10,21,40.6,70.08,59,78,94,30.1,96.3,93.3
+58,55,West Essex,Essex,300,11,26,63,130.2,56,72,89,39.8,96.4,90.5
+59,44,Hanover Park,Morris,214,10,22,74.9,134.35,71,68,88,41,96.4,85.2
+60,24,John P. Stevens (Edison)IB,Middlesex,552,15,29,63.3,148.98,41,83,88,62,95.8,87.7
+61,53,Voorhees,Hunterdon,252,12,25,53.4,87.27,56,80,95,36.4,97,78.5
+62,85,Leonia,Bergen,147,10,21,70.5,133.97,62,68,90,47.8,93.6,80.6
+63,67,Bridgewater-Raritan,Somerset,718,12,29,50.1,97.36,53,80,90,37.6,95,88.6
+64,38,Metuchen,Middlesex,146,11,25,77.3,112.38,39,73,88,37.5,96.9,90.4
+65,45,South Brunswick,Middlesex,711,15,31,57.5,114.31,46,74,88,49.7,95.8,91.4
+66,37,Cherry Hill  East,Camden,541,16,24,60.5,78.97,56,83,91,32.2,94.9,89.8
+67,58,ParamusIB,Bergen,295,11,28,56.3,97.4,63,69,88,38.7,96.8,82.4
+68,N/A,Delaware Valley Regional (Frenchtown),Hunterdon,233,11,22,40.4,97.34,48,75,94,41.2,94.2,83.9
+69,71,Morris Hills,Morris,298,10,32,52.9,141.5,57,69,86,51.8,90.1,81.3
+70,63,Shore Regional (West Long Branch)  IB,Monmouth,148,11,24,56.1,119.44,71,66,86,47,93.9,85
+71,96,Manalapan,Monmouth,425,14,26,62.5,115.28,46,72,90,35.8,98.2,88.8
+72,118,North Star Academy (Newark)  C,Essex,81,14,13,100,184.47,29,81,85,67.5,95.2,93.8
+73,51,Pequannock Township,Morris,169,10,19,60.6,88.55,52,67,93,29.6,95.1,88.7
+74,36,River Dell Regional (Oradell),Bergen,274,11,21,35.7,54.21,41,81,92,30.8,98.6,89.2
+75,84,Fort LeeIB,Bergen,257,13,28,50.8,90.41,70,72,85,43.1,97.3,83.1
+76,76,Scotch Plains-Fanwood,Union,360,13,22,60.8,95.19,51,74,89,39.2,95.7,89.8
+77,141,Emerson,Bergen,103,11,15,50.3,92.46,77,70,88,35.7,98.1,84
+78,75,Pascack Valley (Hillsdale),Bergen,289,11,23,47.2,75.76,35,76,92,27.1,98,87.3
+79,86,Colts Neck,Monmouth,356,14,23,52.8,115.24,33,81,93,44,93.2,80.7
+80,34,James Caldwell (West Caldwell),Essex,189,11,16,55.2,69.48,63,73,91,33,94,84.4
+81,56,Wayne Hills,Passaic,322,11,22,50.8,78.48,43,75,90,32.4,96.1,85
+82,137,Haddon Township,Camden,135,10,12,50,61.54,70,73,90,27.3,96.3,83.7
+83,121,Freehold TownshipIB,Monmouth,515,14,37,63.4,106.74,40,73,92,29.2,92.8,89.5
+84,78,Middletown South,Monmouth,328,12,31,52.6,65.38,66,72,89,26.7,94.9,85.9
+85,62,Morris KnollsIB,Morris,407,11,40,56.2,94.48,58,64,88,37.1,92.8,87
+86,N/A,Highland Park,Middlesex,130,11,22,84.6,124.7,76,60,83,48.2,93.5,82.9
+87,66,Robbinsville,Mercer,222,13,16,65.6,76.91,54,67,92,34.9,97.4,88.3
+88,64,Columbia (Maplewood),Essex,397,13,29,73.4,104.28,68,65,84,46.3,90.4,85.7
+89,72,Fair Lawn,Bergen,338,12,27,45.7,95.67,49,66,89,36.8,96.6,87.7
+90,69,Wayne Valley,Passaic,327,11,23,59.7,96.11,52,65,88,33.3,96.2,82.2
+91,145,Howell,Monmouth,491,14,26,58.6,88.39,44,73,89,22.8,97.9,87.7
+92,113,Manasquan,Monmouth,248,13,15,36.1,64.94,61,79,89,29.5,94.5,90.1
+93,88,Mount Olive,Morris,340,13,28,37.6,61.37,57,76,89,29.2,94.2,85.5
+94,132,Dumont,Bergen,212,12,19,42.9,70.2,39,71,90,35,97.2,86.8
+95,117,Westwood Junior/Senior,Bergen,179,11,20,37.5,63.92,63,67,86,26.4,98.4,88.6
+96,102,Point Pleasant Borough,Ocean,185,11,20,49,77.4,68,70,85,34.2,91.7,83.6
+97,81,Eastern Regional (Voorhees),Camden,520,15,25,49.5,70.97,42,75,91,27.9,95,84.3
+98,91,Wall,Monmouth,291,9,24,32.4,69.18,53,69,88,27.7,95.2,83.8
+99,126,Monroe Township,Middlesex,513,12,28,46.1,61.98,36,74,90,27.4,95.9,82.1
+100,74,Rutherford,Bergen,166,11,17,43.2,76.79,57,70,87,35.2,90.4,87.4
+101,80,MorristownIB,Morris,445,14,28,55.9,90.07,59,68,88,34.6,87.1,86.3
+102,87,Lawrence,Mercer,255,12,25,40.6,76.66,60,66,89,29.3,94.4,84.5
+103,149,Bergenfield,Bergen,290,12,26,76,135.78,69,54,80,41.3,97.3,78.6
+104,90,Mainland Regional (Linwood),Atlantic,368,12,27,55.8,125.69,53,62,84,37.1,95.9,84.4
+105,107,Ocean City,Cape May,318,13,20,69.7,89.47,51,69,89,30.8,96.3,78.6
+106,59,Parsippany,Morris,237,10,23,39.6,71.14,50,70,85,29.3,92.7,89
+107,120,Ocean Township,Monmouth,277,10,22,53.3,102.02,61,61,84,31.4,93.5,84.7
+108,95,Kittatinny Regional (Newton),Sussex,168,10,13,30.6,64.71,64,71,92,17.7,95.9,82.2
+109,156,Raritan (Hazlet),Monmouth,223,11,20,62.9,102.75,63,58,81,32.6,98.7,81.6
+110,140,Northern Burlington County (Mansfield),Burlington,297,12,23,70.1,70.41,54,64,90,28.8,94.1,79.2
+111,139,Vernon Township,Sussex,273,11,19,41.5,51.08,56,73,88,23.7,96.5,78.4
+112,131,High Point Regional (Wantage),Sussex,230,11,29,43.3,91.98,62,61,86,27.7,93.4,78.4
+113,104,Lenape (Medford),Burlington,405,12,21,44.6,54.08,51,73,89,20.3,94.3,87.3
+114,130,Middletown North,Monmouth,339,12,30,47.6,56.29,64,66,89,19.8,91.3,84.5
+115,73,Montclair,Essex,508,12,31,72.7,68.02,52,65,84,33.3,93.5,81.1
+116,106,Freehold Borough,Monmouth,349,12,22,57.1,102.07,36,65,85,38.2,94.5,83.8
+117,172,Jackson Memorial,Ocean,373,13,21,40,81.29,50,72,89,25.2,93.5,84.1
+118,129,Cinnaminson,Burlington,197,11,18,51.1,97.51,55,59,87,24.4,95.2,84.2
+119,61,Midland Park,Bergen,76,9,14,34.7,67.36,63,63,84,32.6,95,79.5
+120,195,Lenape Valley Regional (Stanhope),Sussex,222,13,16,40.2,70.44,80,67,88,26.3,93.6,83.6
+121,101,Waldwick,Bergen,106,9,16,33.3,64.96,43,70,85,23.9,95.5,87.2
+122,103,Jonathan Dayton (Springfield),Union,156,12,18,71.7,153.95,49,54,85,42.8,89.4,87
+123,109,Arthur L. Johnson (Clark),Union,172,11,15,48.6,100,85,51,83,29.1,96.8,84
+124,119,Allentown,Monmouth,320,13,19,34.8,58.59,39,71,86,29.8,97.6,85.1
+125,98,Cherokee (Marlton),Burlington,570,12,24,32.9,35.14,47,75,89,16.5,95.7,87
+126,82,Shawnee (Medford),Burlington,380,13,22,43.6,33.64,43,70,92,15,98.5,87.2
+127,N/A,Bergen Arts & Sciences (Garfield)  C,Bergen,59,14,15,100,114.75,74,51,79,41.8,93.7,84.6
+128,97,Hightstown,Mercer,364,12,22,37.4,50.94,67,71,81,24.5,94,85.6
+129,134,Clearview Regional (Mullica Hill),Gloucester,418,13,21,44.9,65.65,58,71,85,26.1,93.2,78.4
+130,114,Matawan Regional (Aberdeen),Monmouth,252,11,25,35.6,70.74,51,66,82,28.4,92.1,85.6
+131,190,Lyndhurst,Bergen,177,11,17,59,50.26,65,69,81,18,94.7,83.4
+132,93,Seneca (Tabernacle),Burlington,330,11,24,37.7,51.55,47,65,89,18.3,95.9,80.4
+133,115,Somerville,Somerset,268,12,19,35.2,66.23,43,69,86,25.8,96.2,81.1
+134,184,Dunellen,Middlesex,79,10,8,38.3,60.48,71,66,85,24.6,90.7,75.8
+135,155,South Plainfield,Middlesex,258,11,21,49.8,86.5,55,57,79,31.8,92.2,81.6
+136,133,Spotswood,Middlesex,200,13,18,35.6,62.26,50,69,87,25.3,94.6,78.6
+137,158,Lakeland Regional (Wanaque),Passaic,239,10,11,29.4,46.89,46,67,90,19.6,93.1,81.8
+138,124,Washington Township,Gloucester,579,12,28,50.9,68.66,46,59,85,24.8,94.5,74.1
+139,92,Secaucus,Hudson,136,11,16,38.8,42.49,60,61,84,15.8,98.5,84.8
+140,191,Toms River North,Ocean,558,13,18,30.5,58.89,53,72,86,19.5,93.6,80.5
+141,70,South Hunterdon (Lambertville),Hunterdon,72,10,9,39.6,52.55,65,50,75,25.6,100,89.2
+142,52,Roxbury,Morris,308,11,20,24,29.21,68,68,84,15.9,93.3,88
+143,183,Weehawken,Hudson,93,12,23,73,151.32,30,51,73,41.5,97.9,64.9
+144,100,Cherry Hill  West,Camden,352,12,24,57.3,66.43,56,65,81,23.4,91,77.5
+145,105,Henry Hudson Regional (Highlands),Monmouth,44,8,12,49.7,111.76,50,50,82,28.4,94.1,76.5
+146,166,Nutley,Essex,322,13,23,32.1,47.28,50,69,85,17.5,95.5,85.7
+147,148,West Milford,Passaic,262,10,22,32.3,51.02,62,54,85,19.9,95,72.9
+148,108,New Milford,Bergen,154,12,18,43.4,57.28,54,59,78,26.2,98.2,82.1
+149,173,Hamilton East-Steinert,Mercer,286,12,19,49.2,39.89,57,58,85,14.1,96.9,88.3
+150,136,North Warren Regional (Blairstown),Warren,155,11,24,45.2,47.19,50,62,86,20.8,93.3,41.6
+151,150,Middlesex,Middlesex,146,10,10,21.1,41.45,60,75,79,13.2,96.7,83.8
+152,143,Old Bridge,Middlesex,706,12,28,41.3,59.71,35,62,82,24.2,94.2,83.5
+153,123,West Orange,Essex,459,10,26,37,73.71,70,47,77,25.1,86.7,82
+154,221,Jackson Liberty,Ocean,325,12,21,34.7,64.98,51,62,87,20.4,94,72.6
+155,110,Edison,Middlesex,497,12,26,40.5,63.94,37,57,81,33,92.8,82.5
+156,138,Jefferson Township,Morris,234,11,17,32.6,49.57,61,59,79,21.4,93.3,88.8
+157,127,Ridgefield Memorial,Bergen,122,10,13,27.5,44.94,86,67,82,20.7,84.1,76.3
+158,165,Piscataway Township,Middlesex,582,13,21,37.5,56.27,48,66,80,26.7,92.1,85.2
+159,99,Newton,Sussex,180,11,13,38.2,46.34,51,69,84,20.9,88.4,81.6
+160,200,Wood-Ridge  IB,Bergen,80,13,9,40,26.23,66,68,87,14.3,95.4,83.7
+161,111,Kingsway Regional (Woolwich),Gloucester,418,15,22,50.2,36.57,49,69,86,14.6,95.9,76.3
+162,174,Pompton Lakes,Passaic,185,11,14,29.7,44.92,54,71,78,18.4,96.3,81.5
+163,194,Egg Harbor Township,Atlantic,557,12,29,38.4,81.93,44,57,82,24.4,94.2,75.4
+164,204,Southern Regional (Manahawkin),Ocean,483,13,15,39.1,34.47,43,72,91,13.5,93.6,78.2
+165,146,John F. Kennedy (Middlesex),Middlesex,327,12,22,47.2,72.66,48,61,77,29.2,93.3,77.3
+166,182,Middle Township,Cape may,168,11,15,29.7,53.47,51,73,85,20,81.5,66.9
+167,178,Warren Hills (Washington Township),Warren,290,12,17,34.3,59.11,62,55,87,24.7,93.5,66.2
+168,175,Pinelands Regional (Little Egg Harbor),Ocean,241,10,16,51.1,58.39,46,55,88,19.4,91.9,60.2
+169,180,New Egypt,Ocean,120,10,12,23.4,40.97,62,54,82,19,95.5,87.3
+170,169,Woodstown,Salem,177,11,9,40.8,24.36,61,63,90,12.8,95.2,64.4
+171,177,Toms River East,Ocean,281,12,15,31.6,55.61,57,65,85,20.5,87.8,80.6
+172,112,Cedar Grove,Essex,119,12,14,29.9,56.23,52,51,83,19.3,98.4,90
+173,144,North Brunswick,Middlesex,449,12,24,37.4,95.77,54,57,78,21.7,80.9,84.9
+174,116,Hasbrouck Heights,Bergen,168,11,14,35.2,34.53,51,56,84,19.5,94.9,85.2
+175,268,Barnegat,Ocean,208,11,19,32.5,51.31,67,65,79,18.6,87.6,71.2
+176,164,Colonia,Middlesex,325,12,22,44.5,72.99,58,55,74,18.8,94.1,82.7
+177,209,Alexander Hamilton Preparatory (Elizabeth),Union,228,14,16,100,223.92,55,40,54,31.7,96.2,77.5
+178,154,Pitman,Gloucester,93,10,10,40.1,45.18,63,56,80,17.8,94.1,71.8
+179,159,Burlington TownshipIB,Burlington,331,12,19,26,34.53,63,56,75,19.6,96.8,84.1
+180,181,Franklin,Somerset,502,12,25,40.4,63.88,81,52,70,21.4,85.3,77.6
+181,162,Butler,Morris,139,11,9,30,49.03,62,49,81,22.2,94.1,79.2
+182,168,Toms River South,Ocean,314,12,15,30,53.51,57,63,83,17.6,92,70.3
+183,171,Phillipsburg,Warren,415,14,23,29.2,24.97,59,66,87,14,91.7,52.9
+184,176,Absegami (Galloway),Atlantic,336,11,22,27.8,46.39,44,56,83,17.8,91.8,78.8
+185,128,Palisades Park,Bergen,100,10,18,33,44.17,67,51,74,19.9,85.3,77.8
+186,163,TeaneckIB,Bergen,316,10,20,40.8,46.31,50,51,78,16.6,88.8,78
+187,226,Arthur P Schalick (Pittsgrove),Salem,138,12,10,31.4,68.31,37,50,82,28.9,94.6,73.9
+188,179,Wallkill Valley Regional (Hardyston),Sussex,165,11,10,16,21.89,60,68,84,11.5,93.8,70.3
+189,142,Monmouth Regional (Tinton Falls),Monmouth,233,11,19,38.1,38.32,36,58,79,17.1,92.7,77.3
+190,147,West Deptford,Gloucester,236,13,17,32.6,33.04,53,63,84,13.6,93.5,76
+191,216,Lower Cape May Regional,Cape may,190,10,15,33.7,53.42,54,61,79,15.7,78.9,61.2
+192,167,Dwight Morrow/Academies (Englewood),Bergen,260,12,18,41.2,57.71,76,47,66,25.7,87.3,72
+193,186,HackettstownIB,Warren,230,12,18,27.3,18.93,55,68,83,11.2,93.6,72.5
+194,151,Woodbridge,Middlesex,380,11,24,37.1,53.21,46,52,67,19.1,89.9,79.1
+195,233,Florence Township MemorialIB,Burlington,104,14,10,42.6,50.53,53,56,78,20.7,93,78.4
+196,247,Brick Township,Ocean,282,11,21,25,34.28,35,52,85,18.5,90.1,72.8
+197,239,Collingswood,Camden,188,11,12,28.1,46.49,57,61,78,16.8,90.5,68.6
+198,211,Brick Township MemorialIB,Ocean,347,12,22,27.2,33.38,46,55,84,16.3,91.5,77.7
+199,205,Dover,Morris,209,12,12,48.2,85.39,61,37,60,31.8,87.9,75
+200,234,Gateway Regional (Woodbury Heights),Gloucester,153,11,16,19.5,16.78,53,71,83,7.7,94.3,55.7
+201,235,Liberty (Jersey City),Hudson,55,9,9,60.8,74.23,41,32,61,17.5,100,68.4
+202,201,Rancocas Valley Regional (Mount Holly),Burlington,472,14,16,39.4,31.23,58,65,83,10,87.9,80.1
+203,246,Cedar Creek (Egg Harbor City),Atlantic,205,12,13,34.4,53.39,33,61,83,19,89.9,66.2
+204,153,Delsea Regional,Gloucester,278,16,17,37,46.48,61,54,81,15,94.9,57.5
+205,213,Bordentown Regional,Burlington,165,13,12,27.8,37.54,60,58,79,17.8,89.6,79.3
+206,218,Woodbury,Gloucester,97,10,18,60.4,86.1,65,33,56,16,86.6,64
+207,270,Highland Regional (Blackwood),Camden,330,14,16,31.6,37.82,59,62,80,9.9,92.9,77.2
+208,206,Belvidere,Warren,114,11,11,26,38.19,46,58,81,15.4,95,51.9
+209,189,Hammonton,Atlantic,328,14,12,23.1,27.99,22,72,85,14.2,86.8,71.1
+210,193,East Orange Stem Academy,Essex,87,12,11,51.5,69.7,47,45,72,14.6,95.7,78
+211,249,Manchester Township,Ocean,214,11,17,37.8,28.79,41,59,79,11.4,90.5,77.5
+212,288,Gloucester City,Camden,134,10,11,49.8,73.88,72,44,63,12.7,89.9,49.3
+213,275,Central Regional (Bayville),Ocean,291,12,16,36,40.93,33,64,84,11.7,86.5,68
+214,170,Boonton,Morris,148,11,8,25.5,34.28,63,52,72,11.7,95.7,81.1
+215,192,Sayreville War Memorial,Middlesex,396,13,18,24,44.28,52,55,79,14.2,90,81.9
+216,277,South Amboy Middle,Middlesex,58,12,2,19.4,34.11,73,69,72,15.5,88,55.2
+217,199,Cicely L. Tyson Community (East Orange),Essex,104,9,7,41.8,50,100,16,57,10.2,97.2,77
+218,231,Lacey Township,Ocean,250,11,17,27.3,40.56,28,57,82,13.3,89.5,71.7
+219,187,Haddon Heights,Camden,137,10,10,41.4,18.98,56,56,79,7.5,89.2,78.7
+220,152,Delran,Burlington,215,12,12,23.2,27.82,58,59,76,13.6,91.1,82.1
+221,236,Sterling (Somerdale),Camden,229,13,9,37.3,23.19,68,57,81,12.6,89.6,71.6
+222,188,David Brearley Middle (Kenilworth),Union,125,12,12,42.6,56.52,66,40,67,11.7,93.7,81.6
+223,248,Pennsville Memorial,Salem,100,9,7,15.3,33.04,62,52,84,10.5,89.2,56.5
+224,185,North Arlington,Bergen,116,10,8,15.7,25.89,48,59,78,8.5,95,82
+225,272,SalemIB,Salem,67,7,20,62.8,110.14,59,20,20,9.5,88.2,70.6
+226,203,Plainfield Academy For the Arts  IB,Union,66,10,9,42.3,43.07,78,26,57,10.2,95.7,78.2
+227,157,Saddle Brook Middle,Bergen,137,12,11,25.7,39.42,63,40,75,16.2,93.4,80
+228,244,Henry P. Becton Regional (East Rutherford)  IB,Bergen,119,11,11,41.1,20.08,52,42,78,7.6,96.9,81.9
+229,220,Atlantic City,Atlantic,411,12,20,44,71.7,42,47,74,15,80.5,70.2
+230,197,Roselle Park,Union,157,11,9,18.5,27.3,62,47,64,14.8,96.3,78
+231,198,Maple Shade,Burlington,109,12,7,13.7,23.7,72,62,78,12.3,86.3,73.6
+232,229,Rahway,Union,260,10,20,41.5,74.95,45,35,66,14.3,84.9,69.3
+233,223,North Plainfield,Somerset,227,10,9,31.8,43.15,55,45,61,16.2,94.5,59.4
+234,219,Glassboro,Gloucester,126,11,11,31.7,29.78,70,47,68,11.1,94.3,65.4
+235,161,Union Senior High,Union,558,12,20,36.1,23.77,59,47,72,9.5,93.1,79.7
+236,251,Timber Creek Regional (Gloucester Township),Camden,330,13,17,33,44.67,53,50,76,10.8,89.7,82.1
+237,215,Hawthorne,Passaic,161,12,15,23.9,46.93,58,37,74,14.4,92.7,80.3
+238,222,Wallington Junior Senior,Bergen,91,13,8,38,64.07,38,54,78,9,94.8,81.5
+239,N/A,Camden’s PromiseC,Camden,109,10,11,44.9,79.49,53,21,38,10.7,97.3,63.8
+240,160,Passaic Valley Regional (Little Falls),Passaic,309,12,14,21.1,25.31,55,55,77,11.4,90.3,79.1
+241,271,Manville,Somerset,90,12,6,21.5,30.77,45,59,78,16,90.8,73.4
+242,232,Audubon,Camden,168,12,12,19.4,24.62,49,54,84,9.2,93.3,76.3
+243,281,Bayonne,Hudson,513,11,23,21.1,37.89,45,45,72,10.6,89.9,82.1
+244,253,Williamstown,Gloucester,414,14,14,26.6,20.4,46,56,86,8.9,89.1,74.1
+245,265,Thomas Jefferson Arts Academy (Elizabeth),Union,178,11,15,69.2,115.27,81,15,38,8.4,75.8,66
+246,237,Overbrook Senior (Pine Hill),Camden,159,10,12,25.2,49.84,62,50,68,9.7,86.5,67.4
+247,214,Hopatcong,Sussex,116,9,11,21.2,29.2,47,44,77,11.5,91.6,69.9
+248,208,Ridgefield Park,Bergen,220,13,13,19.6,35.29,62,43,64,16.4,93.6,74.8
+249,284,Deptford Township,Gloucester,286,13,14,25.2,22.99,63,58,72,9.7,92.1,66.7
+250,297,Penns Grove,Salem,85,9,6,32.2,57.14,97,37,67,9,57.6,49
+251,228,Oakcrest,Atlantic,219,10,17,34.4,40.53,39,40,67,11,87.9,75.8
+252,256,Pemberton Township,Burlington,239,10,16,21.8,30.35,48,43,77,11.6,86.4,59.9
+253,258,LindenIB,Union,427,12,20,30.2,52.28,63,32,62,10.8,85.6,75.1
+254,260,Hamilton West-Watson,Mercer,273,11,17,29.9,21.25,53,48,76,6.2,90,70.4
+255,241,Technology,Essex,162,11,8,41.9,31.95,39,30,66,11.8,94.5,80.5
+256,224,Palmyra,Burlington,62,9,13,24.2,32.81,48,42,66,12.5,88.2,66
+257,207,South River,Middlesex,128,12,9,21.7,26.33,70,41,74,12.5,86.5,73.5
+258,217,Hackensack,Bergen,415,13,23,30.9,38.32,27,40,65,14,92.1,74.8
+259,292,Lodi,Bergen,247,14,11,40.6,43.92,46,45,71,7,95.4,77.5
+260,212,Hoboken,Hudson,117,8,11,54.5,67.82,40,15,37,6.9,89.9,74.6
+261,196,Academy For Urban Leadership (Perth Amboy)  C,Middlesex,90,12,9,34,32.46,62,19,44,6.3,94.5,88.1
+262,291,Carteret,Middlesex,246,12,14,7.6,18.47,68,55,69,4.9,82.4,73
+263,274,Memorial Senior (Elmwood Park),Bergen,168,15,13,20.7,36.72,43,37,73,13.9,91.7,81
+264,261,Vineland Senior,Cumberland,490,13,15,34.3,49.95,67,42,63,8.6,78.8,66
+265,279,New Brunswick,Middlesex,355,13,14,25.8,45.08,76,40,56,13,68.7,59.9
+266,295,Halsey Health & Public Safety (Elizabeth),Union,148,12,11,77.7,230.22,58,11,28,4.4,61.9,59.8
+267,230,Ewing,Mercer,262,11,9,18.6,17.35,52,40,71,9.4,91.5,75.1
+268,312,John E. Dwyer Technology (Elizabeth),Union,235,12,11,53.7,71.88,44,14,25,16.6,75.1,62
+269,263,Long Branch,Monmouth,318,13,17,31.4,51.51,46,33,49,13.8,92.1,62.2
+270,298,Bound Brook,Somerset,132,13,7,26.2,33.33,58,47,74,9.9,81.1,67.7
+271,259,Bloomfield,Essex,439,12,10,27.4,40.48,50,37,62,11.3,91.3,73.6
+272,282,Triton Regional (Bellmawr),Camden,273,12,17,28.8,33.27,44,43,64,10.7,89.4,65.9
+273,301,Harrison,Hudson,172,13,9,27,41.6,53,30,65,12.1,91.9,71.4
+274,242,CliftonIB,Passaic,728,14,18,26.6,24.71,46,45,67,9.2,87.1,76.4
+275,227,Arts  (Newark),Essex,134,12,11,26.1,28.03,92,28,59,5.3,90.7,71.5
+276,266,Kearny,Hudson,431,14,14,25.9,32.99,53,42,70,7.5,91.8,66.8
+277,290,Winslow Township,Camden,289,11,17,25.9,45.6,37,33,69,7.7,76.7,67.1
+278,269,Orange,Essex,268,10,11,19.6,29.05,79,12,25,7.3,91.2,56.7
+279,303,William L. Dickinson (Jersey City),Hudson,443,11,14,34,42.22,42,37,48,7.6,78.4,73.7
+280,280,American History (Newark),Essex,69,12,9,42.5,67.16,29,20,56,8.2,90.1,75
+281,267,Hillside,Union,207,11,7,26.5,33.73,59,28,56,7.2,87.7,73.5
+282,294,Garfield,Bergen,209,10,6,18.9,19.77,51,47,59,6.4,81.5,69.2
+283,257,Hamilton North-Nottingham,Mercer,309,13,18,28.5,13.24,56,35,66,4.3,88.1,72.1
+284,289,Cliffside Park,Bergen,242,12,7,13.7,17.46,46,51,75,5,82.4,75
+285,314,Passaic No. 12,Passaic,658,15,22,43,72.97,35,16,29,10.7,78.5,50
+286,240,Cumberland Regional (Bridgeton),Cumberland,283,14,6,37.3,8.67,54,46,72,4.8,88,63.8
+287,202,Millville Senior,Cumberland,400,13,18,26.2,12.1,42,46,76,3.6,87.3,52.3
+288,286,Neptune,Monmouth,320,13,12,14.4,17.28,66,38,66,5.8,80.4,68.8
+289,287,Pennsauken,Camden,311,12,13,20.9,15.05,67,36,56,5.1,83.7,59.6
+290,273,Perth Amboy,Middlesex,399,10,13,14.5,18.72,53,28,45,7.1,75.9,63.4
+291,N/A,Belleville,Essex,309,12,12,19.6,22.31,39,45,66,6.2,85.1,70.4
+292,285,Lindenwold,Camden,118,11,10,14.8,24.35,56,36,50,4.4,75.2,57.4
+293,210,Leap Academy University (Camden)  C,Camden,118,14,1,6.4,0,59,10,30,0,99.2,74.1
+294,322,Lakewood,Ocean,213,11,7,29,39.35,61,11,33,2.6,75.7,44.5
+295,296,Memorial (West New York),Hudson,446,13,10,15.3,18.56,45,31,56,9.4,79.1,71.6
+296,309,James J. Ferris (Jersey City)  IB,Hudson,246,10,14,19.9,21.68,36,13,27,3.7,81.2,62.8
+297,283,Passaic County-Manchester Regional (Haledon),Passaic,182,13,7,12.6,10.72,52,37,54,5.4,79.7,73.3
+298,293,Union CityIB,Hudson,775,16,15,12.8,13.32,42,29,48,6.5,85.4,71.7
+299,252,North Bergen,Hudson,494,14,9,4.6,7.97,49,26,59,3.5,85.4,77.4
+300,330,Architecture & Construction Trades (Paterson),Passaic,120,10,5,0,0,51,16,24,0,79.6,52.9
+301,300,Bridgeton,Cumberland,237,13,8,18.4,24.29,57,24,49,2,73.2,56.9
+302,307,Trenton Central-West Campus,Mercer,142,12,6,9.5,19.25,52,10,34,7.6,85.7,51.6
+303,321,East Side (Newark)  IB,Essex,439,15,18,17.1,21.36,44,16,23,3.8,76.9,50
+304,327,Plainfield,Union,337,15,9,8.1,8.27,52,16,34,1.6,70.8,42.2
+305,326,School Of Business Technology (Paterson),Passaic,117,12,5,9.5,0,31,15,26,0,83.9,69.7

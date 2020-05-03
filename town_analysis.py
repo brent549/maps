@@ -14,7 +14,7 @@ def sites(file):
     return a
 
 def files(dir):
-    return [x for x in os.listldir(outdir) if x.endswith(".json")]
+    return [x for x in os.listldir(outdir) if x.endswith(".json") and not x.beginswith('all')]
     
 
 def convert_to_min(s):
@@ -46,11 +46,14 @@ for o in origins:
         data=[]
         for line in fd:
             data.append(json.loads(line.strip()))
-        #pprint.pprint(data)
+        pprint.pprint(data)
         
         #{origin}->{dest}->time: | distance: | mode:
         #{origin}->{dest}->[(time,distance,mode)]
         for x in data:
+            if 'error_message' in x:
+                print(x['error_message'])
+                continue
             mode=x['transit_mode']
             origin=x['origin_addresses'][0]
             d = x['rows'][0]['elements']

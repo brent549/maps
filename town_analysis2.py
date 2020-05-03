@@ -53,7 +53,7 @@ def convert_to_min(s):
         return (int(a[0])*60) + int(a[2])
     return int(a[0])
 
-origins = sites('cities.txt')
+origins = sites('etc/cities.txt')
 outdir = 'json'
 
 pprint.pprint(files(outdir))
@@ -107,7 +107,12 @@ for orig,locs in sorted(results.items()):
 ratings = school_town_ratings()
     
 #Town,School Rating,Town Rating,Distance to NYC,Commute NYC,NYC Commute Method,Distance to Waldwick,Drive to Waldwick,Waldwick Commute Method
-header = ['Town','School Rating','Town Rating','Distance to NYC','Commute NYC','NYC Commute Method','Distance to Waldwick','Drive to Waldwick','Waldwick Commute Method']
+header = ['Town','School Rating','Town Rating','Commute to NYC','Distance to NYC','NYC Commute Method','Drive to Waldwick','Distance to Waldwick','Waldwick Commute Method']
+# Crime rate per 1000 residents 2016
+# Violent crime rate per 1000 residents 2016
+# NJM Top High Schools rank 2018
+# Avgerage residentail tax bill 2018
+# Effective property tax rate 2018
 print(('\t').join(header))
 for orig,locs in sorted(results.items()):
     alist = [''] * 9

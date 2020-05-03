@@ -14,10 +14,11 @@ import sys
 import os
 #import urllib.parse as urlparse
 from urllib.parse import urlparse, parse_qs
+from town_info import NJ_Info
 
 
 API_KEY=''
-with open('key.txt') as f:
+with open('etc/key.txt') as f:
     API_KEY=f.read().strip()
 BASE_URL='https://maps.googleapis.com/maps/api/distancematrix/json'
 
@@ -118,14 +119,22 @@ def sites(file):
     return a
 
 
-origins = sites('cities.txt')
-for url in car_url(origins), bus_url(origins), train_url(origins):
-    transit_mode=transitmode(url)
-    file="%s/%s_%s.json" % (outdir,'all_cities',transit_mode)
-    with open(file, "w") as fd:
-        response = http.request('GET', url)
-        print(response.status)
-        data = json.loads(response.data.decode('utf-8'))
-        data['transit_mode']=transit_mode
-        pprint.pprint(data)
-        json.dump(data, fd)
+#origins = sites('etc/cities.txt')
+nji = NJ_Info()
+all_origins = list(nji.towns('Bergen').keys())
+#print(len(origins))
+#sys.exit(0)
+
+# Google only allows 25 origin/destinatinos at a time
+for i in range(0,len(all_origins),25):
+    origins = all_origins[i:i+25]
+    for url in car_url(origins), bus_url(origins), train_url(origins):
+        transit_mode=transitmode(url)
+        file="%s/%s_%s_%s.json" % (outdir,'all_cities',i,transit_mode)
+        with open(file, "w") as fd:
+            response = http.request('GET', url)
+            print(response.status)
+            data = json.loads(response.data.decode('utf-8'))
+            data['transit_mode']=transit_mode
+            pprint.pprint(data)
+            json.dump(data, fd)
