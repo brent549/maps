@@ -48,7 +48,8 @@ class NJ_Info(object):
         return self.town_data
 
     def town(self,name):
-        if name in town_data:
+        name = name.lower()
+        if name in self.town_data:
             return self.town_data[name]
         return None
 

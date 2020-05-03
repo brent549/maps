@@ -121,8 +121,8 @@ def sites(file):
 
 #origins = sites('etc/cities.txt')
 nji = NJ_Info()
-all_origins = list(nji.towns('Bergen').keys())
-#print(len(origins))
+all_origins = [ town + ', NJ' for town in nji.towns('Bergen').keys()]
+#print(all_origins)
 #sys.exit(0)
 
 # Google only allows 25 origin/destinatinos at a time
