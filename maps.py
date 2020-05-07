@@ -1,5 +1,9 @@
 #!/usr/local/bin/python2
 
+# Written to find the distance from a person to the closest office.  This was used during an 
+# exercise to get remote workers to move back into the nearest office.  Ironic that COVID changed
+# that strategy
+
 import urllib2
 import urllib
 import json
@@ -9,7 +13,7 @@ import datetime
 import sys
 import os
 
-API_KEY='AIzaSyB1bTt_By72UVu5CYiYYnYhYB2joQLtOn8'
+API_KEY=''
 BASE_URL='https://maps.googleapis.com/maps/api/distancematrix/json'
 
 

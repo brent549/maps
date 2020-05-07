@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Read the json files produced from town_distance_matrix and generate CSV output
+
 import json
 import pprint
 import os
@@ -20,12 +22,6 @@ def school_town_ratings():
             d[town]['School Rating']=row[1]
             d[town]['Town Rating']=row[2]
     return d
-    #with open(f, mode='r') as csv_file:
-    #    csv_reader = csv.DictReader(csv_file)
-    #    headers = csv_reader.fieldnames
-    #    for row in csv_reader:
-    #        for header in headers:
-    #            if header 
                 
 def sites(file):
     a=[]
@@ -118,7 +114,15 @@ for orig,locs in sorted(results.items()):
 nj_data = NJ_Info()
     
 #Town,School Rating,Town Rating,Distance to NYC,Commute NYC,NYC Commute Method,Distance to Waldwick,Drive to Waldwick,Waldwick Commute Method
-header = ['Town','School Rating','Town Rating','Commute to NYC','Distance to NYC','NYC Commute Method','Drive to Waldwick','Distance to Waldwick','Waldwick Commute Method',
+header = ['Town',
+'School Rating',
+'Town Rating',
+'Commute to NYC',
+'Distance to NYC',
+'NYC Commute Method',
+'Drive to Waldwick',
+'Distance to Waldwick',
+'Waldwick Commute Method',
 'Crime rate per 1000 residents 2016',
 'Violent crime rate per 1000 residents 2016',
 'NJM Top High Schools rank 2018',

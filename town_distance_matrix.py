@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# Take a list of destinations and get driving, bus and tail commute times.
+# Write the data to outdir
+# list of towns are gatheres from town_info.py
+
 import urllib
 import urllib3
 import json
@@ -27,6 +31,7 @@ destinations = ['9 Charles Ter Waldwick, NJ','770 Broadway New York, NY']
 eastern = pytz.timezone('US/Eastern')
 http = urllib3.PoolManager(timeout=2.0)
 outdir = 'json'
+
 
 
 def next_monday():
@@ -119,11 +124,13 @@ def sites(file):
     return a
 
 
-#origins = sites('etc/cities.txt')
+#all_origins = sites('etc/cities.txt')
 nji = NJ_Info()
 all_origins = [ town + ', NJ' for town in nji.towns('Bergen').keys()]
-#print(all_origins)
-#sys.exit(0)
+
+if not os.path.isdir(outdir):
+    print("{} is not a directory".format(outdir))
+    sys.exit()
 
 # Google only allows 25 origin/destinatinos at a time
 for i in range(0,len(all_origins),25):

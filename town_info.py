@@ -1,5 +1,8 @@
 #!/usr/bin/env python3 
 
+# Class to extract information about some towns in NJ.
+# CSV file was obtained from data from the NJMonthly.com
+
 import csv
 import pprint
 
